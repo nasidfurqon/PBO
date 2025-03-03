@@ -1,3 +1,10 @@
+/*
+ * Nama File : Kendaraan.java
+ * Deskripsi : berisi atribut dan method dalam class Kendaraan
+ * Pembuat   : Khoirul Nasid Furqon - 24060123120042
+ * Tanggal   : 27 Februari 2025
+ */
+
 public class Kendaraan {
     private String noPlat;
     private String jenis;
