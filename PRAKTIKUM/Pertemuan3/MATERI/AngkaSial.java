@@ -1,4 +1,4 @@
-package MATERI;
+    package MATERI;
 // Pembuat      : Khoirul Nasid Furqon - 24060123120042
 // Tanggal      : 7 Maret 2025
 // File         : AngkaSial.java
