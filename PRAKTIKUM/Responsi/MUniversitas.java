@@ -85,7 +85,7 @@ public class MUniversitas {
         d1.printInfo();
         System.err.println();
 
-        System.out.println("===== PINDAH PROGRAM STUDI =====");
+        System.out.println("===== PINDAH FAKULTAS =====");
         m2.setFakultas(FPP);
         d2.setFakultas(FPP);
 
