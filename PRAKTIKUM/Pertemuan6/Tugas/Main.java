@@ -1,3 +1,4 @@
+package Tugas;
 // Pembuat      : Khoirul Nasid Furqon - 24060123120042
 // Tanggal      : 26 April 2025
 // File         : Main.java

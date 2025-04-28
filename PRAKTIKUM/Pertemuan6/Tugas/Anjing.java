@@ -1,14 +1,16 @@
+package Tugas;
 // Pembuat      : Khoirul Nasid Furqon - 24060123120042
 // Tanggal      : 26 April 2025
-// File         : Kucing.java
-// Deskripsi    : Program untuk menyimpan Child, Kucing
+// File         : Anjing.java
+// Deskripsi    : Program untuk menyimpan Child, Anjing
 
-class Kucing extends Anabul {
+class Anjing extends Anabul {
 
-    public Kucing(){
+    public Anjing(){
         super();
-    }   
-    public Kucing(String nama) {
+    }
+
+    public Anjing(String nama) {
         super(nama);
     }
 
@@ -19,6 +21,6 @@ class Kucing extends Anabul {
 
     @Override
     public void Bersuara() {
-        System.out.println(getNama() + " bersuara Meong");
+        System.out.println(getNama() + " bersuara Guk-guk");
     }
 }
