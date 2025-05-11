@@ -1,3 +1,7 @@
+// Pembuat      : Khoirul Nasid Furqon - 24060123120042
+// Tanggal      : 10 Mei 2025
+// File         : BangunDatarGenericTest.java
+// Deskripsi    : kelas konstruksi generic untuk BangunDatar
 
 public class BangunDatarGeneric<T extends BangunDatar> {
     private T bangunDatar;
