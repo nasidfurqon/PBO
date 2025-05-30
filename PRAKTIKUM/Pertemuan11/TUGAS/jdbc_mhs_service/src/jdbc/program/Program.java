@@ -1,3 +1,8 @@
+// Pembuat      : Khoirul Nasid Furqon - 24060123120042
+// Tanggal      : 28 Mei 2025
+// File         : Program.java
+// Deskripsi    : Implementasi Program
+
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
@@ -20,7 +25,7 @@ public class Program {
 
         // insert
         System.out.println("===insert===");
-        Mahasiswa mhsAdd = new Mahasiswa(5, "Haryo");
+        Mahasiswa mhsAdd = new Mahasiswa(5, "Khoirul");
         service.add(mhsAdd);
         System.out.println("berhasil insert: " + mhsAdd);
         service.displayAll();
@@ -29,7 +34,7 @@ public class Program {
         System.out.println("===update===");
         Mahasiswa mhsUpdate = service.getById(5);
         System.out.println("Akan diupdate data lama: " + mhsUpdate);
-        mhsUpdate.setNama("Dinaya");
+        mhsUpdate.setNama("Nasid");
         System.out.println("dengan data baru: " + mhsUpdate);
         service.update(mhsUpdate);
         service.displayAll();

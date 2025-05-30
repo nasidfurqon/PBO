@@ -1,3 +1,8 @@
+// Pembuat      : Khoirul Nasid Furqon - 24060123120042
+// Tanggal      : 21 Mei 2025
+// File         : GUI.java
+// Deskripsi    : Implementasi GUI
+
 
 import javax.swing.DefaultListModel;
 

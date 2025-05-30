@@ -1,4 +1,9 @@
 
+// Pembuat      : Khoirul Nasid Furqon - 24060123120042
+// Tanggal      : 21 Mei 2025
+// File         : Proyek3.java
+// Deskripsi    : Implementasi GUI untuk proyek3
+
 import javax.swing.DefaultListModel;
 import java.util.*;
 /*

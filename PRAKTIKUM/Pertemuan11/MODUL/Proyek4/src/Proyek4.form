@@ -98,16 +98,16 @@
                       <EmptySpace max="-2" attributes="0"/>
                       <Component id="jButtonListInsert" min="-2" max="-2" attributes="0"/>
                       <EmptySpace type="separate" max="-2" attributes="0"/>
-                      <Group type="103" groupAlignment="3" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
                           <Component id="jButtonSetSave" alignment="1" min="-2" max="-2" attributes="0"/>
                           <Component id="jLabelJumlahDataSet" alignment="1" min="-2" pref="23" max="-2" attributes="0"/>
                       </Group>
                       <EmptySpace max="-2" attributes="0"/>
                       <Component id="jButtonSetInsert" min="-2" max="-2" attributes="0"/>
                       <EmptySpace min="-2" pref="18" max="-2" attributes="0"/>
-                      <Group type="103" groupAlignment="3" attributes="0">
-                          <Component id="jButtonMapSave" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
                           <Component id="jLabelJumlahDataMap" alignment="0" min="-2" pref="23" max="-2" attributes="0"/>
+                          <Component id="jButtonMapSave" min="-2" max="-2" attributes="0"/>
                       </Group>
                       <EmptySpace max="-2" attributes="0"/>
                       <Component id="jButtonMapInsert" min="-2" max="-2" attributes="0"/>
